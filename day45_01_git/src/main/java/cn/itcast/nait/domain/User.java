@@ -11,4 +11,6 @@ package cn.itcast.nait.domain;
 public class User {
 
     private String name;
+    private int age;
+
 }
